@@ -12,7 +12,9 @@ def fib(n):
 
 def main():
     print("coding...")
-    fib(2)
+    for i in range(20):
+        print("\ntest with ", i, "\n")
+        fib(i)
     
         
 main()
