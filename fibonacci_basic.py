@@ -8,8 +8,6 @@ def fib(n):
         print(a1)
         a1 = a2
 
-        
-
 def main():
     print("coding...")
     for i in range(20):
